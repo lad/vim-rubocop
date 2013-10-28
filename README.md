@@ -18,7 +18,9 @@ Installation
 
 3. If you want to use a specific config file set g:rubocop_config
 
+    ```vim
     let g:rubocop_config = "~/git/dev/roux/etc/rubocop.yml"
+    ```
 
 4. Setup whatever shortcuts you want to invoke RubocopThis (current file) or RubocopAll.
 
