@@ -20,5 +20,7 @@ Installation
 
 4. Setup whatever shortcuts you want to invoke RubocopThis (current file) or RubocopAll.
 
+    ```vim
     nnoremap    <leader>R       :RubocopThis<CR>
     nnoremap    <leader>T       :RubocopAll<CR>
+    ```
