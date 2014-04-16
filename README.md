@@ -13,7 +13,8 @@ Installation
 2. Clone this repository into your bundle directory:
 
     ```bash
-    git clone https://github.com/lad/vim-rubocop.git ~/.vim/bundle
+    cd ~/.vim/bundle/
+    git clone https://github.com/lad/vim-rubocop.git ./vim-rubocop
     ```
 
 3. If you want to use a specific config file set g:rubocop_config
